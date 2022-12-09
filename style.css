@@ -27,12 +27,8 @@ img, video {
 nav img {
 	width: auto;
 }
-iframe {
-    width: 300px;
-    height: 300px;
-}
 
-h1 {
-    padding-top: 100px;
+.indexIMG{
+	width: 500px;
+	height: auto;
 }
-
